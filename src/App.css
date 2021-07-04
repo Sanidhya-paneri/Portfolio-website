@@ -8,3 +8,9 @@
   *{ 
     font-family: 'Nunito Sans', sans-serif;
   }
+
+  
+  .main-name {
+    color: #cd5ff8;
+    font-size: 48px !important;
+  }
