@@ -73,4 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. navbar 
 2. sidebar
 3. toggle function for sidebar
-4. Homesection (pending)
+4. Homesection - styling, responsive, background
+5. aboutsection
