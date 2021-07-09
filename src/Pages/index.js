@@ -19,10 +19,9 @@ const Home = () => {
 
     return (
         <>
-         
+         <Particle />
          <Sidebar isOpen={isOpen} toggle={toggle}/>
          <Navbar toggle={toggle}/>
-         <Particle />
          <HomeSection />
          <Aboutme />
          <Projects />

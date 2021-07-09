@@ -75,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 3. toggle function for sidebar
 4. Homesection - styling, responsive, background
 5. aboutsection
+6. projectsection-done
+7. responsive - done(partial)
+8. add my skills and projects info

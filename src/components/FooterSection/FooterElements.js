@@ -23,7 +23,6 @@ margin-left: 20px;
 export const Col1 = styled.h3`
 text-align: center;
 margin-left: 30px;
-
 `;
 
 export const Col2 = styled.h3`

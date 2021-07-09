@@ -12,6 +12,7 @@ padding-bottom: 30px;
 @media screen and (max-width: 768px){
     height: auto;
     padding-bottom: 30px;
+    padding-top: 60px;
 }
 @media screen and (max-width: 480px){
     height: auto;

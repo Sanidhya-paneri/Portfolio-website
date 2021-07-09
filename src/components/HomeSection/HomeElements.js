@@ -12,9 +12,7 @@ height: 800px;
 position : relative;
 z-index: -1;
 background-image: url(${bg});
-
-}
-`
+`;
 
 export const HomeBg= styled.div`
 position : absolute;
