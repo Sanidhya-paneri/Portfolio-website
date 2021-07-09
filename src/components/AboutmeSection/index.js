@@ -46,7 +46,7 @@ const Aboutme = () => {
               <ImPointRight /> Travelling
             </li>
           </ul>
-
+            <hr style={{ color: "purple" }}/>
             </Introduction>
 
 

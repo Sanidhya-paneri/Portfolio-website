@@ -1,5 +1,4 @@
 import React from "react";
-import Particle from "../Particle";
 import Type from "./Type";
 import {
   HomeContainer,
@@ -20,7 +19,6 @@ const HomeSection = () => {
   return (
     <HomeContainer id="home">
       <HomeBg >
-        <Particle />
         <InfoWrapper className="home-header">
           <InfoRow imgStart={false}>
             <Column1>

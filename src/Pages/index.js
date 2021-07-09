@@ -4,6 +4,8 @@ import Navbar from '../components/Navbar'
 import HomeSection from '../components/HomeSection'
 import Aboutme from '../components/AboutmeSection'
 import Footer from '../components/FooterSection'
+import Projects from '../components/Projects.js'
+import Particle from '../components/Particle'
 
 
 
@@ -17,10 +19,13 @@ const Home = () => {
 
     return (
         <>
+         
          <Sidebar isOpen={isOpen} toggle={toggle}/>
-         <Navbar toggle={toggle}/>  
+         <Navbar toggle={toggle}/>
+         <Particle />
          <HomeSection />
          <Aboutme />
+         <Projects />
          <Footer />
          
         </>
