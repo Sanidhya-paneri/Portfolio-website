@@ -139,7 +139,7 @@ padding: 0 50px;
 `;
 
 export const SkillCard = styled.div`
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459);
+  box-shadow: 0 4px 5px 3px rgba(143, 39, 143, 0.459);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -154,7 +154,7 @@ export const SkillCard = styled.div`
   border: 1.7px solid rgba(200, 137, 230, 0.637);
   font-size: 4.5em;
 
-&:hover {
+&:hover{
   transform: scale(1.02);
   overflow: hidden;
   box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561);

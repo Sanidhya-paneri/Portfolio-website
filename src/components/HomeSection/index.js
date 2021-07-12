@@ -23,7 +23,7 @@ const HomeSection = () => {
           <InfoRow imgStart={false}>
             <Column1>
               <TextWrapper>
-                <Greetings>Hi There!!</Greetings>
+                <Greetings>Hi There!! <span className="wave">👋🏻</span> </Greetings>
                 <NameInfo>
                   I'M <strong className="main-name">Sanidhya Paneri</strong>
                 </NameInfo>

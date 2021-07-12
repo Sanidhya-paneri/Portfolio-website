@@ -38,7 +38,7 @@ padding: 0 50px;
 `;
 
 export const ProjectCard = styled.div`
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459);
+  box-shadow: 0 4px 5px 3px rgba(143, 39, 143, 0.459);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -53,7 +53,7 @@ export const ProjectCard = styled.div`
 &:hover {
   transform: scale(1.02);
   overflow: hidden;
-  box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561);
+  box-shadow: 0 4px 4px 5px rgba(143, 39, 143, 0.561);
   
 }
 `;
@@ -81,4 +81,5 @@ margin-bottom: 10px;
 export const ProjectDesc = styled.p`
 font-size: 1rem;
 text-align: center;
+font-weight: 550;
 `;
